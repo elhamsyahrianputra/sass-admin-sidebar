@@ -4,7 +4,7 @@
   "description": "Admin Sidebar with SaSS",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "sass --watch ./src/sass/main.scss ./dist/css/main.css"
   },
   "author": "Elham Syahrian Putra",
   "license": "ISC",
